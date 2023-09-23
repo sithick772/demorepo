@@ -5,5 +5,6 @@ class instance2
     {
         instance2 a=new instance2();
         System.out.println(a.value);
+        System.out.println("hello dude");
     }
 }
