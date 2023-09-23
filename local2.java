@@ -5,5 +5,6 @@ class local2
     {
         int a=5;
         System.out.println(a);
+        System.out.println("hello");
     }
 }
