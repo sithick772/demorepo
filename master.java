@@ -10,5 +10,4 @@ class master
       Double square = num*num;
       System.out.println("The value od Square is :" + square);
     }
-    
   }
