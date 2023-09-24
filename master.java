@@ -9,5 +9,6 @@ class master
       num = sc.nextDouble();
       Double square = num*num;
       System.out.println("The value od Square is :" + square);
+      System.out.println("s.p.Balasubramani");
     }
   }
